@@ -1,3 +1,3 @@
-<p align="center">![Logo Laccan](/imagens/laccan.png?raw=true)</p>
+<p align="center"><img src="imagens/laccan.png"></p>
 # CT-Energ
 Repositório para os dados de carga recolhidos
